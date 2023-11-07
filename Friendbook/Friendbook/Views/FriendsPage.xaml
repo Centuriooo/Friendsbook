@@ -44,6 +44,10 @@
             <DataTemplate>
                 <StackLayout Orientation="Horizontal"
                              Margin="20,5,20,5">
+                    <Image Source="{Binding ProfilePic}"
+                           WidthRequest="50"
+                           HeightRequest="50"
+                           Aspect="AspectFill"/>
                     <Label Text="{Binding Name}"
                            FontSize="Medium" />
 

@@ -3659,24 +3659,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tim\\.nuget\\packages\\": {},
+    "C:\\Users\\tim_t\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\Friendbook.Android.csproj",
+      "projectUniqueName": "E:\\Programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\Friendbook.Android.csproj",
       "projectName": "Friendbook.Android",
-      "projectPath": "D:\\programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\Friendbook.Android.csproj",
-      "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-      "outputPath": "D:\\programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\obj\\",
+      "projectPath": "E:\\Programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\Friendbook.Android.csproj",
+      "packagesPath": "C:\\Users\\tim_t\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming-projects\\Friendbook\\Friendbook\\Friendbook.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tim_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3690,8 +3690,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\programming-projects\\Friendbook\\Friendbook\\Friendbook\\Friendbook.csproj": {
-              "projectPath": "D:\\programming-projects\\Friendbook\\Friendbook\\Friendbook\\Friendbook.csproj"
+            "E:\\Programming-projects\\Friendbook\\Friendbook\\Friendbook\\Friendbook.csproj": {
+              "projectPath": "E:\\Programming-projects\\Friendbook\\Friendbook\\Friendbook\\Friendbook.csproj"
             }
           }
         }

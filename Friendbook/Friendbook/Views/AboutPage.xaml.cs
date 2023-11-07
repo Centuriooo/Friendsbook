@@ -11,10 +11,15 @@ namespace Friendbook.Views
             InitializeComponent();
         }
 
-        async void OnButtonClicked(object sender, EventArgs e)
+        async void OnWikiButtonClicked(object sender, EventArgs e)
         {
             // Launch the specified URL in the system browser.
-            await Launcher.OpenAsync("https://github.com/Centuriooo/Friendsbook/tree/main/Friendbook");
+            await Launcher.OpenAsync("https://github.com/Centuriooo/Friendsbook/wiki/About-the-app");
+        }
+        async void OnCodeButtonClicked(object sender, EventArgs e)
+        {
+            // Launch the specified URL in the system browser.
+            await Launcher.OpenAsync("https://github.com/Centuriooo/Friendsbook");
         }
     }
 }

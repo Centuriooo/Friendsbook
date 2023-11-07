@@ -1,5 +1,6 @@
 ﻿using System;
 using SQLite;
+using Xamarin.Forms;
 
 namespace Friendbook.Models
 {
@@ -14,6 +15,7 @@ namespace Friendbook.Models
 
         public int Phone { get; set; }
         public string Note { get; set; }
+        public string ProfilePic { get; set; } = "person_icon.png";
     }
 }
 

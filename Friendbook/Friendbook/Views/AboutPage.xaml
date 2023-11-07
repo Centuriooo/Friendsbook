@@ -27,8 +27,10 @@
                 </Label.FormattedText>
             </Label>
             <Label Text="This Friendsbook app is a simple app to store standard information about your friends. For more information, click on the button below." />
-            <Button Text="Learn more"
-                    Clicked="OnButtonClicked" />
+            <Button Text="Wiki"
+                    Clicked="OnWikiButtonClicked" />
+            <Button Text="Source code"
+                    Clicked="OnCodeButtonClicked" />
         </StackLayout>
     </Grid>
 </ContentPage>
