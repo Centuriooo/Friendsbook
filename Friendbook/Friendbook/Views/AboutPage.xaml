@@ -21,12 +21,13 @@
                             <Span Text="Friendsbook"
                                   FontAttributes="Bold"
                                   FontSize="22" />
-                            <Span Text=" v1.0" />
+                            <Span Text=" v1.1" />
                         </FormattedString.Spans>
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
             <Label Text="This Friendsbook app is a simple app to store standard information about your friends. For more information, click on the button below." />
+            <Label Text="New in version 1.1 are the images! It is now possible to take a picture with the camera or pick an image from the gallery on your phone." />
             <Button Text="Wiki"
                     Clicked="OnWikiButtonClicked" />
             <Button Text="Source code"
