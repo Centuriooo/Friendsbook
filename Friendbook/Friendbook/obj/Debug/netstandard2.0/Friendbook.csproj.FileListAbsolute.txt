@@ -20,6 +20,12 @@ E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\Friendbook.dll
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\ref\Friendbook.dll
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\Friendbook.pdb
+<<<<<<< HEAD
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\Mono.Android.dll
+E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\Mono.Android.pdb
+E:\Programming-projects\Friendbook\Friendbook\Friendbook\bin\Debug\netstandard2.0\Mono.Android.xml
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.csproj.AssemblyReference.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.GeneratedMSBuildEditorConfig.editorconfig
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\App.xaml.g.cs
@@ -31,6 +37,10 @@ E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.AssemblyInfo.cs
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.csproj.CoreCompileInputs.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\XamlC.stamp
+<<<<<<< HEAD
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.csproj.CopyComplete
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.dll
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\refint\Friendbook.dll
 E:\Programming-projects\Friendbook\Friendbook\Friendbook\obj\Debug\netstandard2.0\Friendbook.pdb

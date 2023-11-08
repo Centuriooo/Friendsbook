@@ -662,6 +662,7 @@ E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\a
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\Friendbook.Android.csproj.AssemblyReference.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\res.flag
+<<<<<<< HEAD
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\54\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\55\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\61\jl\files.cache
@@ -675,18 +676,41 @@ E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\l
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\79\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\85\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\87\jl\files.cache
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\55\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\56\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\62\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\63\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\64\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\68\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\69\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\70\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\75\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\76\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\80\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\86\jl\files.cache
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\88\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\89\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\90\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\91\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\92\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\93\jl\files.cache
+<<<<<<< HEAD
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\95\jl\files.cache
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\94\jl\files.cache
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\96\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\97\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\98\jl\files.cache
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\99\jl\files.cache
+<<<<<<< HEAD
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\104\jl\files.cache
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\100\jl\files.cache
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\lp\105\jl\files.cache
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\R.txt
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\R.cs.flag
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\Friendbook.Android.csproj.CoreCompileInputs.cache
@@ -714,6 +738,10 @@ E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\r
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\res\drawable\xamarin_logo.png
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\res\drawable\icon_about.png
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\res\drawable\icon_feed.png
+<<<<<<< HEAD
+=======
+E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\res\drawable\person_icon.png
+>>>>>>> Assignment3
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\uploadflags.txt
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\resolvedassemblies.hash
 E:\Programming-projects\Friendbook\Friendbook\Friendbook.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
